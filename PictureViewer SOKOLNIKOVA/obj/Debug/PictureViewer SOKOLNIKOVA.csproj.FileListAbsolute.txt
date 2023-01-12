@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\сокольникова 21 ис 21\PictureViewer SOKOLNIKOVA\PictureViewer SOKOLNIKOVA\bin\Debug\PictureViewer SOKOLNIKOVA.exe.config
+C:\Users\student\Desktop\сокольникова 21 ис 21\PictureViewer SOKOLNIKOVA\PictureViewer SOKOLNIKOVA\bin\Debug\PictureViewer SOKOLNIKOVA.exe
+C:\Users\student\Desktop\сокольникова 21 ис 21\PictureViewer SOKOLNIKOVA\PictureViewer SOKOLNIKOVA\bin\Debug\PictureViewer SOKOLNIKOVA.pdb
+C:\Users\student\Desktop\сокольникова 21 ис 21\PictureViewer SOKOLNIKOVA\PictureViewer SOKOLNIKOVA\obj\Debug\PictureViewer SOKOLNIKOVA.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\сокольникова 21 ис 21\PictureViewer SOKOLNIKOVA\PictureViewer SOKOLNIKOVA\obj\Debug\PictureViewer SOKOLNIKOVA.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\сокольникова 21 ис 21\PictureViewer SOKOLNIKOVA\PictureViewer SOKOLNIKOVA\obj\Debug\PictureViewer_SOKOLNIKOVA.Form1.resources
+C:\Users\student\Desktop\сокольникова 21 ис 21\PictureViewer SOKOLNIKOVA\PictureViewer SOKOLNIKOVA\obj\Debug\PictureViewer_SOKOLNIKOVA.Properties.Resources.resources
+C:\Users\student\Desktop\сокольникова 21 ис 21\PictureViewer SOKOLNIKOVA\PictureViewer SOKOLNIKOVA\obj\Debug\PictureViewer SOKOLNIKOVA.csproj.GenerateResource.cache
+C:\Users\student\Desktop\сокольникова 21 ис 21\PictureViewer SOKOLNIKOVA\PictureViewer SOKOLNIKOVA\obj\Debug\PictureViewer SOKOLNIKOVA.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\сокольникова 21 ис 21\PictureViewer SOKOLNIKOVA\PictureViewer SOKOLNIKOVA\obj\Debug\PictureViewer SOKOLNIKOVA.exe
+C:\Users\student\Desktop\сокольникова 21 ис 21\PictureViewer SOKOLNIKOVA\PictureViewer SOKOLNIKOVA\obj\Debug\PictureViewer SOKOLNIKOVA.pdb
